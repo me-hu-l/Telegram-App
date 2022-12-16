@@ -2,7 +2,7 @@
 
 Voiceflow is a designing, prototyping and build platform for voice apps, which can be used as a voice interface for your voice apps, however it only allows 2 projects at a time, Hence I am giving the recording of working of the project here.
 
-Make(formerly known as Integromat) is used to connect applications accross various services, which I have used to connect the app to my evernote account using Telegram API
+Make(formerly known as Integromat) is used to connect applications accross various services, which I have used to connect the app to my Telegram account using Telegram API
 This bot let's us post a message to the channel in telegram where the bot has been added as a administrator
 Voiceflow Inteface:-
 
